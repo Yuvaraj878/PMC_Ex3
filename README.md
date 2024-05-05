@@ -86,14 +86,14 @@ void led_blink()
 ```
 ## Output screen shots of proteus  :
 ### LED OFF:
-![LED OFF](https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/e260ae55-5aa2-4547-b66c-b9a4ccc7c6e4)
+<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/e260ae55-5aa2-4547-b66c-b9a4ccc7c6e4" alt="LED OFF" width="200">
 
 ### LED ON:
-![LED ON](https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/b2960423-4efa-4911-81a8-6cfca7073a62)
-
+<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/b2960423-4efa-4911-81a8-6cfca7073a62" alt="LED ON" width="200">
 
 ## Proteus layout:
-![EXP3](https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/3b2c4a10-97c2-454c-9df2-3ffc7d2ed570)
+<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/3b2c4a10-97c2-454c-9df2-3ffc7d2ed570" alt="Proteus layout" width="400">
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
