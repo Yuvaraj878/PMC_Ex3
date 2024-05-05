@@ -86,10 +86,10 @@ void led_blink()
 ```
 ## Output screen shots of proteus  :
 ### LED OFF:
-<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/e260ae55-5aa2-4547-b66c-b9a4ccc7c6e4" alt="LED OFF" width="200">
+<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/e260ae55-5aa2-4547-b66c-b9a4ccc7c6e4" alt="LED OFF" width="400">
 
 ### LED ON:
-<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/b2960423-4efa-4911-81a8-6cfca7073a62" alt="LED ON" width="200">
+<img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/b2960423-4efa-4911-81a8-6cfca7073a62" alt="LED ON" width="400">
 
 ## Proteus layout:
 <img src="https://github.com/JananiSoundararajan/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119477549/3b2c4a10-97c2-454c-9df2-3ffc7d2ed570" alt="Proteus layout" width="400">
